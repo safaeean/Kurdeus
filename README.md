@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4" alt="Typing SVG" />
+![test video](https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4)
 </p>
 
 <h3 align="center">
