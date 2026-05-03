@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4" alt="Typing SVG" />
+  <img src="https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4" alt="Typing SVG" />
 </p>
 
 <h3 align="center">
