@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Wake+up+to+reality...+nothing+ever+goes+as+planned+in+production." alt="Typing SVG" />
+  <img src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4" alt="Typing SVG" />
 </p>
 
 <h3 align="center">
